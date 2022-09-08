@@ -1,4 +1,4 @@
-### Learning objectives
+## Learning objectives
 
 1)  Define the term 'artificial intelligence', 'weak AI', and 'strong AI'
 2)  Provide examples of real-life and/or fictional AI applications
@@ -6,7 +6,7 @@
 4)  Appropriately match the philosophy of AI terms to the corresponding philosophy of AI matrix quadrants
 5)  Explain what version control is and why it can be useful
 
-### Exercises
+## Exercises
 
 ##### 2.1b
      Algorithm analizing data and resembling some kind of primitive inteligence and ability to learn<br>
@@ -24,9 +24,9 @@
 ##### 2.2f
     A) 4; 8;
     B) 1; 5;
-    C) 2; 6; 7; 
-    D) 3; 9; 
+    C) 2; 6; 7;
+    D) 3; 9;
 ##### 3.2g
     Yes
-##### 5) 
+##### 5)
     Version control a system of storing files with changes. Prowides easy access to previous versions of files and ability to compare changes.
